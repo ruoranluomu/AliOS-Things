@@ -30,7 +30,9 @@
       "type": "shell",
       "command": "aos",
       "args": [
-        "monitor"
+        "monitor",
+        "",
+        ""
       ],
       "presentation": {
         "panel": "dedicated"

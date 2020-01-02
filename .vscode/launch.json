@@ -43,14 +43,14 @@
             },
             "windows": {
                 "MIMode": "gdb",
-                "miDebuggerPath": "arm-none-eabi-gdb.exe"
+                "miDebuggerPath": "d:\\Desktop\\AliOS-Things\\build\\compiler\\gcc-arm-none-eabi\\Win32\\bin\\arm-none-eabi-gdb.exe"
             }
         },
         {
             "name": "Debug @ Windows",
             "type": "cppdbg",
             "request": "launch",
-            "program": "D:\\work\\AliOS-Things\\out\\helloworld@starterkit\\binary\\helloworld@starterkit.elf",
+            "program": "${workspaceRoot}/out/helloworld@starterkit/binary/helloworld@starterkit.elf",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceRoot}",
@@ -88,7 +88,7 @@
             },
             "windows": {
                 "MIMode": "gdb",
-                "miDebuggerPath": "arm-none-eabi-gdb.exe"
+                "miDebuggerPath": "d:\\Desktop\\AliOS-Things\\build\\compiler\\gcc-arm-none-eabi\\Win32\\bin\\arm-none-eabi-gdb.exe"
             }
         },
         {
