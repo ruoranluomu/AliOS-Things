@@ -7,5 +7,5 @@
         }
     ],
     "port": 4242,
-    "prompt": ""
+    "prompt": "developerkit.json is used for debugging"
 }

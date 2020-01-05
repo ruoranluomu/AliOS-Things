@@ -113,14 +113,14 @@ debug_configs['stm32f429zi-nucleo'] = stm32f429zi_nucleo
 
 # Debug configs for developerkit config
 developerkit = {
-    "prompt": "",
+    "prompt": "developerkit.json is used for debugging",
     "port": 4242,
     "cmd": [
         {
             "Linux64": "@AOSROOT@/build/cmd/linux64/st-util",
             "OSX": "@AOSROOT@/build/cmd/osx/st-util",
             "Win32": "@AOSROOT@/build/cmd/win32/st-util.exe"
-        }
+        },
     ]
 }
 debug_configs['developerkit'] = developerkit
