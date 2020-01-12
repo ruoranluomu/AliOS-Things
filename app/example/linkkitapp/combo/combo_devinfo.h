@@ -3,9 +3,9 @@
 
 /* for demo only, subject to change to user's specific ones. */
 #define PRODUCT_ID     850958
-#define DEVICE_SECRET  "jDp6NxUImRfZ231nt5Nt1AjEVYPJF4e3"
-#define DEVICE_NAME    "new_bz_test123"
-#define PRODUCT_KEY    "a1oZpFjRUf3"
-#define PRODUCT_SECRET "eZ2JTVukkTz0juw0"
+#define DEVICE_SECRET  "TwnvKmzDQiGMd6epV0wJVs6UGrhfUrFB" /* 四元组已更改 2020/1/9 */
+#define DEVICE_NAME    "TALjHNQ9skygWGsjBhth"
+#define PRODUCT_KEY    "a1UQzEjnmbb"
+#define PRODUCT_SECRET "ooRdl5dwgLrxFmwl"
 
 #endif

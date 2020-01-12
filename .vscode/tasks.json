@@ -7,7 +7,7 @@
       "command": "aos",
       "args": [
         "make",
-        "helloworld@developerkit",
+        "udataapp@developerkit",
         "-c",
         "config"
       ],
@@ -32,7 +32,7 @@
       "command": "aos",
       "args": [
         "upload",
-        "helloworld@developerkit"
+        "udataapp@developerkit"
       ],
       "presentation": {
         "focus": true
@@ -47,7 +47,7 @@
       "command": "aos",
       "args": [
         "debug",
-        "helloworld@developerkit"
+        "udataapp@developerkit"
       ],
       "presentation": {
         "focus": true
@@ -88,7 +88,7 @@
       "command": "aos",
       "args": [
         "ota",
-        "helloworld@developerkit",
+        "udataapp@developerkit",
         "-d",
         "",
         "-p",
